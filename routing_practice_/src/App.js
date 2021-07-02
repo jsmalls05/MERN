@@ -10,7 +10,7 @@ function App() {
         <
         Router >
         <
-        DBZ path = "/home" / >
+        DBZ path = "/home" / > 
         <
         Lebron path = "/:number" / >
         <
